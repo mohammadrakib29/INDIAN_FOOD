@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?dc974c3cf010384725675e2b77f55cf7") format("truetype"),
+url("./flaticon.woff?dc974c3cf010384725675e2b77f55cf7") format("woff"),
+url("./flaticon.woff2?dc974c3cf010384725675e2b77f55cf7") format("woff2"),
+url("./flaticon.eot?dc974c3cf010384725675e2b77f55cf7#iefix") format("embedded-opentype"),
+url("./flaticon.svg?dc974c3cf010384725675e2b77f55cf7#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-soup:before {
+    content: "\f101";
+}
+.flaticon-roti-canai:before {
+    content: "\f102";
+}
+.flaticon-chicken-leg:before {
+    content: "\f103";
+}
+.flaticon-ice-cream:before {
+    content: "\f104";
+}
+.flaticon-vegetarian:before {
+    content: "\f105";
+}
+.flaticon-spaghetti:before {
+    content: "\f106";
+}

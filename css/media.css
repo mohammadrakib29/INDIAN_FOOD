@@ -1,0 +1,273 @@
+/* ==================Extra Large Devices================= */
+@media (min-width:1200px) and (max-width:1399.98px){
+     /* nav bar css goes to here--------- */
+    .sliderbarss {
+        right: -40px;
+    }
+     /* nav bar css goes to here--------- */
+    .navbar-brand {
+        padding: 30px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 0;
+    }
+}
+/* ==================Large Devices================= */
+@media (min-width:992px) and (max-width:1199.98px){
+     /* nav bar css goes to here--------- */
+    .sliderbarss {
+        right: -40px;
+    }
+    .navbar-brand {
+        padding: 30px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 0;
+    }
+    /* banner part here */
+    .banner-text {
+        padding: 50px 90px 70px 90px;
+    }
+    .banner-text h2 {
+        font-size: 90px;
+    }
+    .banner-text h3 {
+        font-size: 60px;
+        padding-bottom: 40px;
+    }
+    .banner-text a {
+        font-size: 26px;
+    }
+     /* menu bar css goes to here--------- */
+     .menu-bg {
+        padding: 340px 0;
+    }
+}
+
+
+/* ==================Medium Devices================= */
+@media(min-width:768px) and (max-width:991.98px){
+     /* nav bar css goes to here--------- */
+     .sliderbarss {
+        top: 17px;
+        right: 20px;
+    }
+    .navbar-brand {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .slide-nav ul {
+        padding: 0;
+    }
+    .slide-nav ul li a {
+        font-size: 30px;
+    }
+      /* banner css goes to here--------- */
+      .banner-text {
+        padding: 50px 90px 70px 90px;
+    }
+      .banner-text a {
+        font-size: 25px;
+    }
+    .banner-text h3 {
+        padding-bottom: 50px;
+    }
+    /* menu bar css goes to here--------- */
+    .menu-bg {
+        padding: 480px 0;
+    }
+     /* blog bar css goes to here--------- */
+     .blog-main {
+        margin-bottom: 25px;
+    }
+    /* footer part goes to here */
+    #footer {
+        padding: 30px 0;
+    }
+    .footer-content p {
+        text-align: center;
+    }
+    .footer-content h3 {
+        padding-bottom: 0px;
+        text-align: center;
+    }
+
+
+}
+
+
+/* ==================Small Devices================= */
+@media(min-width:576px) and (max-width:767.98px){
+     /* nav bar css goes to here--------- */
+     .sliderbarss {
+        top: 17px;
+        right: 20px;
+    }
+    .navbar-brand {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .slide-nav ul {
+        padding: 0;
+    }
+    .slide-nav ul li a {
+        font-size: 25px;
+    }
+     /* banner css goes to here--------- */
+     .banner-text {
+        padding: 40px 60px 45px 60px;
+    }
+    .banner-text h2 {
+        font-size: 90px;
+    }
+    .banner-text h3 {
+        font-size: 50px;
+    }
+    .banner-text a {
+        font-size: 17px;
+    }
+    /* flavours bar css goes to here--------- */
+    .flavours-desc {
+        padding-top: 0px;
+    }
+    .flavours-desc h4 {
+        font-size: 24px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .flavours-desc p {
+        font-size: 17px;
+        line-height: 24px;
+        text-align: center;
+    }
+    /* menu bar css goes to here--------- */
+    .menu-bg {
+        padding: 500px 0;
+    }
+    /* blog bar css goes to here--------- */
+    .blog-main {
+        margin-bottom: 20px;
+    }
+    
+}
+
+
+/* ==================X-Small Devices================= */
+@media (max-width:575.98px){
+   
+    /* nav bar css goes to here--------- */
+    .sliderbarss {
+        top: 17px;
+        right: 20px;
+    }
+    .navbar-brand {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .slide-nav ul {
+        padding: 0;
+    }
+    .slide-nav ul li a {
+        font-size: 25px;
+    }
+
+     /* banner css goes to here--------- */
+     .banner-text {
+        padding: 25px 16px 45px 16px;
+    }
+    .banner-text h2 {
+        font-size: 75px;
+    }
+    .banner-text h3 {
+        font-size: 40px;
+    }
+    .banner-text a {
+        font-size: 16px;
+    }
+
+    /* flavours bar css goes to here--------- */
+    .flavours-desc {
+        padding-top: 0px;
+    }
+    .flavours-desc h4 {
+        font-size: 24px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .flavours-desc p {
+        font-size: 17px;
+        line-height: 24px;
+        text-align: center;
+    }
+    /* plate css goes to here--------- */
+    .gall-overlay {
+        padding: 0;
+    }
+    .gall-overlay h4 {
+        font-size: 15px;
+        padding-bottom: 0;
+    }
+    .gall-overlay h5 {
+        font-size: 14px;
+    }
+    .gall-overlay p {
+        font-size: 14px;
+    }
+    .plate-main h3 {
+        font-size: 35px;
+    }
+    .plate-main h2 {
+        font-size: 70px;
+    }
+    /* tastimonial bar css goes to here--------- */
+    .desing-content h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .overlay-design {
+        padding: 40px 0 70px 0;
+    }
+    .desing-content p {
+        font-size: 15px;
+        padding-bottom: 0;
+    }
+    .design-list h5 {
+        padding: 0 10px;
+    }
+    /* menu bar css goes to here--------- */
+    .heading-main h2 {
+        font-size: 70px;
+    }
+    .heading-main h3 {
+        font-size: 36px;
+    }
+    .menu-bg {
+        padding: 460px 0;
+    }
+    .menu-main {
+        padding-bottom: 5px;
+    }
+    .text1 h3 {
+        font-size: 16px;
+    }
+    .text1 p {
+        font-size: 13px;
+    }
+
+    /* book here bar css goes to here--------- */
+    #book-here {
+        background-color: #2a3b40;
+        padding: 0px 0;
+        padding-bottom: 30px;
+    }
+    .blog-main {
+        margin-bottom: 20px;
+    }
+    /* blog bar css goes to here--------- */
+    .icon-list-tasti i {
+        margin: 0 4px;
+    }
+    /* next bar css goes to here--------- */
+
+
+}
